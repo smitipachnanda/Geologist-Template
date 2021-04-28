@@ -1,1 +1,2 @@
-# Geologist-Template
+# Geologist
+Geologist Project
